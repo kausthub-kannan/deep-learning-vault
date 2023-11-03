@@ -13,10 +13,10 @@ Weights are updated as below (same goes for biases):
 $v_{t+1} = v_t + (\nabla f(w_t))^2$
 $w_{t+1} = w_t - \frac{\alpha}{\sqrt{v_{t+1} + \epsilon}}$
 
-$w_t ~\text{is current weight}$ 
-$w_{t+1}~\text{is updated weight}$
-$\alpha~\text{is learning rate}$
-$\Delta f(w_t)~\text{is gradient of loss function}$ 
-$v_t ~\text{is previous gradient sums}$
-$v_t+1 ~\text{is updated gradient sum}$
-$\epsilon ~\text{added for numerical stability}$
+$w_t  \ \text{is current weight}$   
+$w_{t+1} \ \text{is updated weight}$  
+$\alpha \ \text{is learning rate}$  
+$\Delta f(w_t) \ \text{is gradient of loss function}$   
+$v_t  \ \text{is previous gradient sums}$  
+$v_t+1 ~\text{is updated gradient sum}$  
+$\epsilon  \ \text{added for numerical stability}$

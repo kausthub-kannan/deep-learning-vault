@@ -2,7 +2,7 @@
 ## Autoencoders  
 Autoencoders are consists of two parts, the encoder and decoder.   
 
-![[autoencoders.png]]
+![auto-encoder](./Images/autoencoders.png)
 
 The Encoder takes in the data and performs dimensionality reduction (similar to PCA) there by converting the input data (here image) to a latent vector. This latent vector consists of key features of the original data. The Decoder performs reconstruction of the latent vector to original data. The optimisation of Autoencoder models is done by finding the reconstruction loss given by:   $$loss = arg\ min \ error(x, d(e(x))$$
 The key factor to be considered in Auto Encoders is that the model should not be made complex. If done so, it would lead the decoder to perfectly mimic the input data acting like an identity function of no use case. Hence, the model should be compact.  One more approach to make the autoencoder to learn useful features alone is to add noise to input. This would make the encoder to pick up prominent features.   
@@ -14,9 +14,9 @@ Autoencoders are used for noise removal in high dimensions (images) and image ge
 ## Variational Autoencoders  
 Similar to standard encoders, VAEs encode data. But along with compression of input data, VAEs recognise the distribution of the data. This makes them useful as a Generative models. A variational autoencoder can be defined as being an autoencoder whose training is regularised to avoid overfitting and ensure that the latent space has good properties that enable generative process.  
 
-![[variational_encoders.png]]
+![vae](./Images/variational_encoders.png)
 
-he encoder is trying to learn the parameters φ to compress data input x to a latent vector z, . As for the decoder, its input is latent vector z, the output from the encoder.   
+The encoder is trying to learn the parameters φ to compress data input x to a latent vector z, . As for the decoder, its input is latent vector z, the output from the encoder.   
 
 In VAEs,  the input is encoded as distribution over the latent space. A point from the latent space is sampled from that distribution and the sampled point is decoded and the reconstruction error can be computed.   
 
