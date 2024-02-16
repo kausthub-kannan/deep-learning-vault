@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "50f1e5ce5eb79a4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9419ad52b7b35218",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b9d7219ebbc2129",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "05aa9391b3d92471",
+    "type": "split",
+    "children": [
+      {
+        "id": "17bb906ff65b3eb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f34f40793c7aa571",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "086018d4b9c1abb8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "75f2c5a95f1db098",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1b666e65c59a4ffb",
+    "type": "split",
+    "children": [
+      {
+        "id": "31dd5f40076ab129",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63580fe22e63aa9e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "19ee60a26a340ec9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "30d4c81da16046c4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8afae04d59c0d52c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false
+    }
+  },
+  "active": "8b9d7219ebbc2129",
+  "lastOpenFiles": [
+    "README.md",
+    "Screenshot_20231225_232806.png",
+    "Pasted image 20231225185013.png",
+    "Screenshot_20231225_173228.png",
+    "Computer Networks - IA 1.md",
+    "Screenshot_20231225_231301.png",
+    "Screenshot_20231225_184325.png",
+    "Screenshot_20231225_180811 1.png",
+    "Screenshot_20231225_175239.png",
+    "Screenshot_20231225_231535.png",
+    "Screenshot_20231225_230557.png",
+    "Screenshot_20231225_184934.png",
+    "GANs/StyleGAN.md",
+    "GANs/Evaluation of GANs.md",
+    "Reinforcement Learning/Multi Arm Bandit.md",
+    "GANs/VAE (Variational Autoencoders).md",
+    "Reinforcement Learning/Deep Q Learning.md",
+    "Reinforcement Learning/Contextual Bandit.md",
+    "Reinforcement Learning/Basics of RL.md",
+    "Reinforcement Learning/Images/Deep-Q-Learning.md",
+    "Reinforcement Learning/Images",
+    "Optimisation Algorithm/AdaGrad Optimisation.md",
+    "Reinforcement Learning",
+    "ViTs",
+    "Optimisation Algorithm/Gradient Descent.md",
+    "Optimisation Algorithm/Momentum Optimisation.md",
+    "Optimisation Algorithm/RMSProp Optimisation.md",
+    "Optimisation Algorithm/Adam Optimisation.md",
+    "GANs/DragGAN.md",
+    "GANs/Data Augmentation and Privacy.md",
+    "GANs/Pix2Pix.md",
+    "Screenshot_20231017_191120.png.md",
+    "optimizers7.gif.md",
+    "Optimisation Algorithm/Images/AdaGrad.png.crdownload",
+    "Optimisation Algorithm/Images",
+    "Optimisation Algorithm/Optimisation Algorithms.md",
+    "Optimisation Algorithm"
+  ]
+}
