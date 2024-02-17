@@ -13,13 +13,68 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Optimisation Algorithm/Gradient Descent.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "298d13832a020ca9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GNN/Diving into Node Embedding.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88d79ea1e516bfab",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "GNN/Images/Node Embedding Encoder-Decoder.png"
+              }
+            }
+          },
+          {
+            "id": "f90bd693ccc8ca04",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "GNN/Images/Weisfeiler-Lehman kernel.png"
+              }
+            }
+          },
+          {
+            "id": "c9d5fb10eab085e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GNN/Graph Neural Network.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8126eaee893c92c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "GNN/Images/Node Embedding Encoder-Decoder.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "GNN/Graph Neural Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "GNN/Graph Neural Network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "GNN/Graph Neural Network.md"
               }
             }
           }
@@ -147,9 +202,22 @@
       "random-note:Open random note": false
     }
   },
-  "active": "8b9d7219ebbc2129",
+  "active": "f34f40793c7aa571",
   "lastOpenFiles": [
+    "GNN/Diving into Node Embedding.md",
+    "GNN/Graph Neural Network.md",
+    "GNN/Graphs - Mathematical interpretations.md",
+    "GNN/Images/Node Embedding Encoder-Decoder.png",
+    "GNN/Images/Weisfeiler-Lehman kernel.png",
+    "GNN/Images",
+    "Knowledge Graphs.md",
     "README.md",
+    "Optimisation Algorithm/Gradient Descent.md",
+    "GNN",
+    "Optimisation Algorithm/Adam Optimisation.md",
+    "Optimisation Algorithm/AdaGrad Optimisation.md",
+    "GANs/VAE (Variational Autoencoders).md",
+    "GANs/Evaluation of GANs.md",
     "Screenshot_20231225_232806.png",
     "Pasted image 20231225185013.png",
     "Screenshot_20231225_173228.png",
@@ -159,24 +227,17 @@
     "Screenshot_20231225_180811 1.png",
     "Screenshot_20231225_175239.png",
     "Screenshot_20231225_231535.png",
-    "Screenshot_20231225_230557.png",
-    "Screenshot_20231225_184934.png",
     "GANs/StyleGAN.md",
-    "GANs/Evaluation of GANs.md",
     "Reinforcement Learning/Multi Arm Bandit.md",
-    "GANs/VAE (Variational Autoencoders).md",
     "Reinforcement Learning/Deep Q Learning.md",
     "Reinforcement Learning/Contextual Bandit.md",
     "Reinforcement Learning/Basics of RL.md",
     "Reinforcement Learning/Images/Deep-Q-Learning.md",
     "Reinforcement Learning/Images",
-    "Optimisation Algorithm/AdaGrad Optimisation.md",
     "Reinforcement Learning",
     "ViTs",
-    "Optimisation Algorithm/Gradient Descent.md",
     "Optimisation Algorithm/Momentum Optimisation.md",
     "Optimisation Algorithm/RMSProp Optimisation.md",
-    "Optimisation Algorithm/Adam Optimisation.md",
     "GANs/DragGAN.md",
     "GANs/Data Augmentation and Privacy.md",
     "GANs/Pix2Pix.md",

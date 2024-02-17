@@ -4,7 +4,6 @@ Gradient Descent Algorithms uses the approach of Optimisation using partial deri
 
 **Gradient:**  
 It is defined a the matrix of partial derivatives for given *n* features. For example for a two feature data gradient can be represented as: $[\frac{\delta f}{\delta x} \frac{\delta f}{\delta y}]^T$   
-
 Gradient Descent utilises gradient to find the global minima of the given function to be optimised upon. For a minima, Gradient is equal to zero. This provides the slope or tangent of the initial point which has be taken by the model. The steepness of the slope is taken into consideration. The weights and basis are updated only if the slope is negative. To reach the minima, the weights will be updated according to the **Loss Function**. Iteration will continue until minima is reached which occurs when the loss is close to zero.  
 
 #### Loss Function:  
