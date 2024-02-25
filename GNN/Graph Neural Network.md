@@ -42,6 +42,6 @@ To improvise aggregation, three approaches are often used:
 GNNs face over-smoothing issue. Over-smoothing occurs when node-specific information is lost or "washed-out" after several iterations. *Skip Connections* are used to solve this issue which directly preserve previous round information. This is done with a very simple approach where we just concatenate the previous node information with new node information. Along with the concatenation we can apply gate vectors similar to linear interpolation. $$UPDATE \ interpolate(hu,mN(u)) = \alpha _ {1} \cdot UPDATE_ {base} (h_ {u} , m_ {N} (u)) + \alpha _ {2} \odot h$$
 ## Graph Pooling
 
-![[Graph pooling.png]]
+![Graph pooling.png](./Images/Graph_pooling.png)
 
 Pooling plays important role in convolutional networks which is useful to learn entire embedding of a graph rather than just a node or set of nodes. 
