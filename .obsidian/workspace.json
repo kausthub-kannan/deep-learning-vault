@@ -147,8 +147,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd7c6420c4463c11",
+  "active": "ad7caf9fb5a5ec2f",
   "lastOpenFiles": [
+    "Graph pooling.png",
     "GNN/Graph Neural Network.md",
     "GNN/Diving into Node Embedding.md",
     "GNN/Graphs - Mathematical interpretations.md",
@@ -179,7 +180,6 @@
     "GNN/Images/Node Embedding Encoder-Decoder.png",
     "GNN/Images",
     "GNN",
-    "GANs/Images/variational_encoders.png",
     "GANs/VAE (Variational Autoencoders).md",
     "GANs/StyleGAN.md",
     "GANs/Images",
