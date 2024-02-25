@@ -26,8 +26,7 @@ There are various methods for embedding nodes in vector space and theory might d
 # Multi relational data node embedding
 
 #### Knowledge Graph:
-Graphs can be used a real word relation representation rather than just being abstract. In that case, the older methods of using node embedding can be used as the edges here represent some information or *knowledge*. They can be represented as $(u, \tau, \nu)$, where $\tau$ represents the knowledge.  
-
+Graphs can be used a real word relation representation rather than just being abstract. In that case, the older methods of using node embedding can be used as the edges here represent some information or *knowledge*. They can be represented as $(u, \tau, \nu)$, where $\tau$ represents the knowledge. 
 #### Reconstructing Multi Relational Data:
 Similar to the case of simple graphs, embedding multi-relational graphs can be viewed as a reconstruction task. The goal is to learn low-dimensional embedding for nodes that can accurately reconstruct the relationships between them. However, in multi-relational graphs, we face the additional challenge of dealing with diverse types of edges or relations.
 
