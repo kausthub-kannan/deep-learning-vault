@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "564c032fc2a44ecc",
+        "id": "72f4190df522636e",
         "type": "tabs",
         "children": [
           {
-            "id": "ad7caf9fb5a5ec2f",
+            "id": "fd30002767f8265b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,13 +147,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ad7caf9fb5a5ec2f",
+  "active": "fd30002767f8265b",
   "lastOpenFiles": [
+    "GNN/Graphs - Mathematical interpretations.md",
+    "GNN/Graph Neural Network.md",
     "GNN/Diving into Node Embedding.md",
     "GNN/Images/Graph_pooling.png",
     "Optimisation Algorithm/AdaGrad Optimisation.md",
-    "GNN/Graph Neural Network.md",
-    "GNN/Graphs - Mathematical interpretations.md",
     "GNN/Images/Neural Message Passing.png",
     "Reinforcement Learning/Images/rl_framework.png",
     "Reinforcement Learning/Images/Deep-Q-Learning.md",
