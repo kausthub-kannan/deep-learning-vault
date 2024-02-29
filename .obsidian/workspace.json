@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "72f4190df522636e",
+        "id": "31a2a95463a44fe6",
         "type": "tabs",
         "children": [
           {
-            "id": "fd30002767f8265b",
+            "id": "04fee3c09196f9fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,7 +147,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fd30002767f8265b",
+  "active": "04fee3c09196f9fb",
   "lastOpenFiles": [
     "GNN/Graphs - Mathematical interpretations.md",
     "GNN/Graph Neural Network.md",

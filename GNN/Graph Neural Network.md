@@ -47,6 +47,7 @@ GNNs face over-smoothing issue. Over-smoothing occurs when node-specific informa
 Pooling plays important role in convolutional networks which is useful to learn entire embedding of a graph rather than just a node or set of nodes. 
 
 ## Implementing a basic GNN
+We will implement a basic GNN model for classifying nodes using the CORA dataset which is a stand-mark used to understand working of node classification in GNN.
 
 1. **Imports:**
 ```python
