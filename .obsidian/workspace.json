@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6c8d5f819d6f8ecf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GNN/Node Classification.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GNN/Graph Neural Network.md",
+                "file": "GNN/Node Classification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GNN/Graph Neural Network.md",
+                "file": "GNN/Node Classification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GNN/Graph Neural Network.md"
+                "file": "GNN/Node Classification.md"
               }
             }
           }
@@ -147,9 +160,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "04fee3c09196f9fb",
+  "active": "6c8d5f819d6f8ecf",
   "lastOpenFiles": [
     "GNN/Graphs - Mathematical interpretations.md",
+    "GNN/Node Classification.md",
     "GNN/Graph Neural Network.md",
     "GNN/Diving into Node Embedding.md",
     "GNN/Images/Graph_pooling.png",
